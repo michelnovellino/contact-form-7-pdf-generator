@@ -29,8 +29,6 @@ if (
     async function(event) {
       var inputs = event.detail.inputs;
       var dd;
-      console.log(event.detail.status);
-      console.log("inputs >>>>", inputs);
       if (window.location.pathname == "/servicios-de-asesoria/") {
         // playground requires you to assign document definition to a variable called dd
 
