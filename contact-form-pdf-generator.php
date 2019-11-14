@@ -1,11 +1,11 @@
 <?php
 /**
 * Plugin Name: Contact Form Pdf Generator
-* Plugin URI: https://www.yourwebsiteurl.com/
+* Plugin URI: http://michelnovellino.com
 * Description: generador de pdf a partir de formulario
 * Version: 1.0
-* Author: Liderlogo
-* Author URI: liderlogo.com
+* Author: Michel Novellino
+* Author URI: http://michelnovellino.com
 **/
     
 add_action('wp_enqueue_scripts', 'qg_enqueue');
