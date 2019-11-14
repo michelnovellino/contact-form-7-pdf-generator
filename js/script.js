@@ -955,7 +955,7 @@ if (
                 },
                 { text: "con el concepto" },
                 {
-                  text: ` ALTANIF `,
+                  text: ` ALTA${inputs[1].value} `,
                   bold: true
                 },
                 {
